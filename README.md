@@ -23,7 +23,7 @@ Entre mis éxitos destaco que durante mi formación, apoye a mis compañeros a m
 Cuento con experiencia desarrollando aplicaciones web, y mi sueño es crear una ecosistema para fusionar mis pasiones: la programación y la arquitectura. Ayudaría a la sociedad brindar acceso al diseño Arquitectónico y Urbanístico.
 
 
-![Logo](./public/assets/logo.png)
+![Logo](./public/logo.png)
 
 
 ## Stack
